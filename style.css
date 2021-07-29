@@ -1,0 +1,46 @@
+header{
+    background:#FFF9F4;
+}
+.h-color{
+    color: #FA804C;
+    font-weight: 900;
+    
+}
+
+.btn-color{
+    color: white;
+    
+    transition: 0.2s;
+    
+}
+.btn-color:hover{
+    transform: scale(1.1);
+    background: rgba(0,0,0,0.5);
+    color: white;
+}
+.cas-card{
+    margin: 19px 22px;
+   background: rgb(212, 209, 209);
+    
+}
+.icon{
+    width: 24px;
+    height: 24px;
+}
+.feature-icon{
+
+    height: 82px;
+    width: 78px;
+          
+}
+/* .feature-img{
+    width: 599px;
+    height: 354px;
+} */
+.feature-text{
+    color: rgb(131, 129, 129);
+    line-height: 1;
+}
+.list:hover{
+    background: pink;
+}
